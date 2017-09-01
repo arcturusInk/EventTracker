@@ -1,5 +1,16 @@
 # EventTracker: Product Requirement Document
-			 						
+
+Screenshots of EventTracker App
+-------------------------------
+
+https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG
+
+https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG
+
+https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png
+
+https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG
+
 Description of App’s Use-Case
 -----------------------------
 
