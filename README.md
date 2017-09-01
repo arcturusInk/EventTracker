@@ -1,10 +1,12 @@
 # EventTracker: Product Requirement Document
 Description of App’s Use-Case
+-----------------------------
 
 Typically in universities or colleges, people put up posters, flyers, etc to notify people of events, happenings, occurrences. So instead of that, my idea is an android app that that lets users see a list of events, view information about single events, add/delete new events and share it with a community of perspective attendees - for this project's purpose, it can be a group of friends or people within an university’s club.
 The app has the added social benefit of reducing paper waste. 
 
 List of Screens
+---------------
 
 The app will have the following page organization: 
 
@@ -18,7 +20,8 @@ o View-Event Page: Allows users to view information about individual event and R
 
 *Limited implementation. Not necessary to demonstrate the minimum viable product.
 
-# What Features/UI Elements/Interactions Each Page Will Implement
+What Features/UI Elements/Interactions Each Page Will Implement
+---------------------------------------------------------------
 
 Timeline/Feed of Events (Home Page):
 * Have a hamburger menu icon on the top, left side of the app (beside the name of the app) in the header
