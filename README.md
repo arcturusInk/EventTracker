@@ -7,6 +7,7 @@ The app has the added social benefit of reducing paper waste.
 List of Screens
 
 The app will have the following page organization: 
+
 o Timeline/Feed Of Events (Home Page): Allows viewing of all events’ shared within the group
 	
 o *Menu: Allows users to view what groups they are part of and create more groups
@@ -17,8 +18,7 @@ o View-Event Page: Allows users to view information about individual event and R
 
 *Limited implementation. Not necessary to demonstrate the minimum viable product.
 
-
-What Features/UI Elements/Interactions Each Page Will Implement
+# What Features/UI Elements/Interactions Each Page Will Implement
 
 Timeline/Feed of Events (Home Page):
 * Have a hamburger menu icon on the top, left side of the app (beside the name of the app) in the header
