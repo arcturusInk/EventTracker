@@ -3,8 +3,6 @@
 Screenshots of EventTracker App
 -------------------------------
 
-![](https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG)
-
 ![](https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png)
 
 ![](https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG)
@@ -38,11 +36,9 @@ Timeline/Feed of Events (Home Page):
 * Have a red, circular button at the bottom, right side corner that when pressed will open the Add-Event page
 * The timeline/feed will consist of the names of events and their descriptions
 o Clicking on an event/description will take to the View-Event page
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG?raw=true" alt="Feed"/>
+  <img src="https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG?raw=true" alt="Feed" />
 </p>
-![Feed](https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG)
 
 Add-Event Page:
 * Can be accessed through the Home Page via clicking the red, circular button at the bottom, right side corner
@@ -52,6 +48,9 @@ o Location (a text field): Include a place or address
 o Date and Time (date and time fields)
 o Description (a textarea field): Tell people more about the event
 * A “Cancel” button and a “Create Event” button is shown at the bottom of the page
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG?raw=true" alt="add-event" />
+</p>
 
 View-Event Page:
 * Can be accessed via clicking the event’s name/description on the timeline/feed
@@ -62,10 +61,16 @@ o Shows the “RSVP” button
 o Date and Time
 o Location
 o Description
+<p align="center">
+  <img src="?raw=true" alt="view-event" />
+</p>
 
 *Menu: 
 * Accessed through the Home Page via clicking the hamburger menu icon
 * Has a list of all the groups the user is part of
 * Has a circular button that allows user to create new groups by entering a new group’s name and selecting a group of perspective attendees from phone’s contacts or manually entering email address/phone numbers
+<p align="center">
+  <img src="?raw=true" alt="menu" />
+</p>
 
 *Limited implementation. Not necessary to demonstrate the minimum viable product.
