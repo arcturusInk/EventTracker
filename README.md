@@ -1,6 +1,6 @@
 # EventTracker: Product Requirement Document
 
-Screenshots of EventTracker App
+
 -------------------------------
 
 Description of App’s Use-Case
@@ -9,7 +9,7 @@ Description of App’s Use-Case
 Typically in universities or colleges, people put up posters, flyers, etc to notify people of events, happenings, occurrences. So instead of that, my idea is an android app that that lets users see a list of events, view information about single events, add/delete new events and share it with a community of perspective attendees - for this project's purpose, it can be a group of friends or people within an university’s club.
 The app has the added social benefit of reducing paper waste. 
 
-List of Screens
+List of Screens (Screenshots of the App are Included Below)
 ---------------
 
 The app will have the following page organization: 
