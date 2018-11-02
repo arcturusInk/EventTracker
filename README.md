@@ -39,6 +39,9 @@ Timeline/Feed of Events (Home Page):
 * The timeline/feed will consist of the names of events and their descriptions
 o Clicking on an event/description will take to the View-Event page
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG?raw=true" alt="Feed"/>
+</p>
 ![Feed](https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG)
 
 Add-Event Page:
