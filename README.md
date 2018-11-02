@@ -3,8 +3,6 @@
 Screenshots of EventTracker App
 -------------------------------
 
-![](https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG)
-
 ![](https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG)
 
 ![](https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png)
@@ -40,6 +38,8 @@ Timeline/Feed of Events (Home Page):
 * Have a red, circular button at the bottom, right side corner that when pressed will open the Add-Event page
 * The timeline/feed will consist of the names of events and their descriptions
 o Clicking on an event/description will take to the View-Event page
+
+![Feed](https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG)
 
 Add-Event Page:
 * Can be accessed through the Home Page via clicking the red, circular button at the bottom, right side corner
