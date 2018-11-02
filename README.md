@@ -3,18 +3,18 @@
 Screenshots of EventTracker App
 -------------------------------
 
-https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG
+![](https://user-images.githubusercontent.com/9923181/29957545-171174ac-8ebc-11e7-802e-152407ac10b0.JPG)
 
-https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG
+![](https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG)
 
-https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png
+![](https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png)
 
-https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG
+![](https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG)
 
-Description of Appís Use-Case
+Description of App‚Äôs Use-Case
 -----------------------------
 
-Typically in universities or colleges, people put up posters, flyers, etc to notify people of events, happenings, occurrences. So instead of that, my idea is an android app that that lets users see a list of events, view information about single events, add/delete new events and share it with a community of perspective attendees - for this project's purpose, it can be a group of friends or people within an universityís club.
+Typically in universities or colleges, people put up posters, flyers, etc to notify people of events, happenings, occurrences. So instead of that, my idea is an android app that that lets users see a list of events, view information about single events, add/delete new events and share it with a community of perspective attendees - for this project's purpose, it can be a group of friends or people within an university‚Äôs club.
 The app has the added social benefit of reducing paper waste. 
 
 List of Screens
@@ -22,7 +22,7 @@ List of Screens
 
 The app will have the following page organization: 
 
-o Timeline/Feed Of Events (Home Page): Allows viewing of all eventsí shared within the group
+o Timeline/Feed Of Events (Home Page): Allows viewing of all events‚Äô shared within the group
 	
 o *Menu: Allows users to view what groups they are part of and create more groups
 
@@ -48,14 +48,14 @@ o Event Name (a text field): Add a short, clear name
 o Location (a text field): Include a place or address
 o Date and Time (date and time fields)
 o Description (a textarea field): Tell people more about the event
-* A ìCancelî button and a ìCreate Eventî button is shown at the bottom of the page
+* A ‚ÄúCancel‚Äù button and a ‚ÄúCreate Event‚Äù button is shown at the bottom of the page
 
 View-Event Page:
-* Can be accessed via clicking the eventís name/description on the timeline/feed
+* Can be accessed via clicking the event‚Äôs name/description on the timeline/feed
 * Displays the following information about the event:
 o The date of the event
 o The name of the event
-o Shows the ìRSVPî button
+o Shows the ‚ÄúRSVP‚Äù button
 o Date and Time
 o Location
 o Description
@@ -63,6 +63,6 @@ o Description
 *Menu: 
 * Accessed through the Home Page via clicking the hamburger menu icon
 * Has a list of all the groups the user is part of
-* Has a circular button that allows user to create new groups by entering a new groupís name and selecting a group of perspective attendees from phoneís contacts or manually entering email address/phone numbers
+* Has a circular button that allows user to create new groups by entering a new group‚Äôs name and selecting a group of perspective attendees from phone‚Äôs contacts or manually entering email address/phone numbers
 
 *Limited implementation. Not necessary to demonstrate the minimum viable product.
