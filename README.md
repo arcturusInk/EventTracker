@@ -3,10 +3,6 @@
 Screenshots of EventTracker App
 -------------------------------
 
-![](https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png)
-
-![]()
-
 Description of App’s Use-Case
 -----------------------------
 
@@ -62,7 +58,7 @@ o Date and Time
 o Location
 o Description
 <p align="center">
-  <img src="?raw=true" alt="view-event" />
+  <img src="https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png?raw=true" alt="view-event" />
 </p>
 
 *Menu: 
