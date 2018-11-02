@@ -5,7 +5,7 @@ Screenshots of EventTracker App
 
 ![](https://user-images.githubusercontent.com/9923181/29957532-f8713a5a-8ebb-11e7-890a-7666c641c433.png)
 
-![](https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG)
+![]()
 
 Description of App’s Use-Case
 -----------------------------
@@ -49,7 +49,7 @@ o Date and Time (date and time fields)
 o Description (a textarea field): Tell people more about the event
 * A “Cancel” button and a “Create Event” button is shown at the bottom of the page
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG?raw=true" alt="add-event" />
+  <img src="https://user-images.githubusercontent.com/9923181/29957543-0e77f05a-8ebc-11e7-8ced-9ea36012576b.JPG?raw=true" alt="add-event" />
 </p>
 
 View-Event Page:
@@ -70,7 +70,7 @@ o Description
 * Has a list of all the groups the user is part of
 * Has a circular button that allows user to create new groups by entering a new group’s name and selecting a group of perspective attendees from phone’s contacts or manually entering email address/phone numbers
 <p align="center">
-  <img src="?raw=true" alt="menu" />
+  <img src="https://user-images.githubusercontent.com/9923181/29957553-1e2100dc-8ebc-11e7-8244-761be11105e8.JPG?raw=true" alt="menu" />
 </p>
 
 *Limited implementation. Not necessary to demonstrate the minimum viable product.
